@@ -359,12 +359,12 @@ Example response from the API reference, abridged — real values depend on the 
     "https://img.olx.com.br/images/902901124_2.jpg"
   ],
   "seller": {
-    "id": "48273910",
-    "name": "Carlos M.",
-    "type": "particular",
-    "total_ads": 4,
+    "id": "example",
+    "name": "example",
+    "type": "example",
+    "total_ads": 0,
     "profile_url": "example",
-    "member_since": "2021-03-15T00:00:00.000Z"
+    "member_since": "example"
   },
   "status": "active",
   "payment": {
